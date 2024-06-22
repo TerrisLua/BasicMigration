@@ -1,0 +1,8 @@
+2024-06-23 02:42:27,090 - INFO - Connected to SQLite database.
+2024-06-23 02:42:27,116 - INFO - Connected to PostgreSQL database.
+2024-06-23 02:42:27,116 - INFO - Found tables in SQLite: [('people',), ('fruits',)]
+2024-06-23 02:42:27,118 - INFO - Created table people in PostgreSQL.
+2024-06-23 02:42:27,128 - INFO - Migrated table people from SQLite to PostgreSQL.
+2024-06-23 02:42:27,128 - INFO - Created table fruits in PostgreSQL.
+2024-06-23 02:42:27,129 - INFO - Migrated table fruits from SQLite to PostgreSQL.
+2024-06-23 02:42:27,130 - INFO - Closed database connections.
